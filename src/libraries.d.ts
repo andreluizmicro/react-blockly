@@ -1,3 +1,5 @@
 declare module 'react-blockly' {
-    declare var BlocklyWorkspace: any;
+    declare var ReactBlockly: any;
+
+    export default ReactBlockly;
 }
